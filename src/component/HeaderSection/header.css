@@ -1,0 +1,10 @@
+.nav-bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.header-section {
+  display: flex;
+  align-items: center;
+}

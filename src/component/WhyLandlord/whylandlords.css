@@ -1,0 +1,23 @@
+.heading {
+  text-align: center;
+}
+
+.cardList {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.property-text {
+  text-align: center;
+  padding-top: 2rem;
+}
+
+.frames {
+  text-align: center;
+  padding: 2rem 0;
+}
+
+.frame {
+  width: 40rem;
+  height: 4rem;
+}

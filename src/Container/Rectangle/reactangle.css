@@ -1,0 +1,23 @@
+.reactangle {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background: lightgray;
+}
+
+.input-field {
+  width: 90%;
+  height: 2.8rem;
+}
+
+.button-css {
+  width: 60%;
+  height: 3rem;
+  font-weight: 500;
+}
+
+.button-css:hover {
+  color: #ffffff;
+  background-color: black;
+}

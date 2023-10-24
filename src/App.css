@@ -2,6 +2,12 @@
   padding: 2rem 4rem;
 }
 
+.font-12 {
+  font-size: 12px;
+  font-family: "Poppins";
+  font-weight: 400;
+}
+
 .font-18 {
   font-size: 1rem;
   font-family: "Poppins";
@@ -12,6 +18,12 @@
   font-size: 1.5rem;
   font-family: "Poppins";
   font-weight: 500;
+}
+
+.font-24-400 {
+  font-size: 1.5rem;
+  font-family: "Poppins";
+  font-weight: 400;
 }
 
 .font-36 {

@@ -29,6 +29,11 @@ const WhatLord = () => {
         </Grid>
         <Grid item xs={4}>
           <p className="font-36">Landlord saving</p>
+          <p className="font-18">
+            Monthly rental <strong>£500</strong> based on a{" "}
+            <strong>12 month</strong>tenancy
+          </p>
+          <p className="font-18">Learn how we estimate your saving</p>
         </Grid>
       </Grid>
     </Grid>

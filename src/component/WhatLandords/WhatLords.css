@@ -23,3 +23,9 @@
   background: #ffffff;
   color: #000000;
 }
+
+.videoPic {
+  height: 388px;
+  width: 722px;
+  padding: 2rem;
+}

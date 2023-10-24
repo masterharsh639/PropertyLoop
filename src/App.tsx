@@ -1,4 +1,5 @@
 import "./App.css";
+import Packages from "./Container/Packages/Packages";
 import Reactangle from "./Container/Rectangle/Reactangle";
 import Header from "./component/HeaderSection/Header";
 import HeroSection from "./component/HeroSection/HeroSection";
@@ -15,6 +16,7 @@ function App() {
       <Whylandlords />
       <WhatLord />
       <SafeHands />
+      <Packages/>
     </div>
   );
 }

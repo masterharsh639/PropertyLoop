@@ -1,11 +1,15 @@
-.safehands-section{
-    display: flex;
-    flex-direction: row;
-    padding: 3rem 0;
+.safehands-section {
+  display: flex;
+  flex-direction: row;
+  padding: 4rem 0;
 }
 
-.safehand-para{
-    width: 550px;
-    height: 50px;
-    padding-bottom: 3rem;
+.safehand-title {
+
+}
+
+.safehand-para {
+  width: 550px;
+  height: 50px;
+  padding-bottom: 8rem;
 }

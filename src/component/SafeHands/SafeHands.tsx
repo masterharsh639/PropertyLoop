@@ -11,7 +11,7 @@ import approvedLogo from "../../assets/approvedLogo.svg";
 const SafeHands = () => {
   return (
     <Grid container xs={12} className="safehands-section">
-      <Grid item xs={12} className="font-36" sx={{ textAlign: "center" }}>
+      <Grid item xs={12} className="font-36 safehand-title" sx={{ textAlign: "center" }}>
         You’re in safe hands
       </Grid>
       <Grid
